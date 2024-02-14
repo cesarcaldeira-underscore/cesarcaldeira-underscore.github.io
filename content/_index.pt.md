@@ -6,7 +6,7 @@ toc: false
 
 {{< hextra/hero-badge >}}
   <div class="w-2 h-2 rounded-full bg-primary-400"></div>
-  <span>A César Caldeira project</span>
+  <span>Um projeto de César Caldeira</span>
   {{< icon name="arrow-circle-right" attributes="height=14" >}}
 {{< /hextra/hero-badge >}}
 
