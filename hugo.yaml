@@ -50,7 +50,7 @@ menu:
         icon: x-twitter
     - name: Patreon
       weight: 7
-      url: "https://patreon.com/cesarcaldeira/"
+      url: "https://www.patreon.com/cesarcaldeira/"
       params:
         icon: heart
 
