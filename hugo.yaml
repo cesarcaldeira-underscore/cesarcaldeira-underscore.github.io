@@ -38,11 +38,11 @@ menu:
       weight: 4
       params:
         type: search
-    #- name: YouTube
-    #  weight: 5
-    #  url: ""
-    #  params:
-    #    icon: youtube
+    - name: LinkedIn
+      weight: 5
+      url: "https://www.linkedin.com/in/cesarmcs/"
+      params:
+        icon: linkedin
     - name: Twitter
       weight: 6
       url: "https://twitter.com/cesarcaldeira_/"
