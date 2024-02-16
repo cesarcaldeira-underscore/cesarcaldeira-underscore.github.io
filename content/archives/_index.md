@@ -16,6 +16,7 @@ cascade:
 
 {{< cards >}}
   {{< card icon="newspaper" title="Launching 'Underscore_'" subtitle="My place on the web to share projects and passions." image="/images/patreon-cover.jpg" link="2024/launch/">}}
+  {{< card icon="newspaper" title="The crazy politics of the original 'Modern Warfare' trilogy" subtitle="Terrorism, Russian troops in DC, arms traffickers, and rogue American generals. How the original 'Modern Warfare' played on the trends of its time, and a commentary on the crazy events of its narrative from a political lens." image="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pros_Vs_G.I._Joes_DVIDS207949.jpg" link="2024/0215-politics-of-modern-warfare-trilogy/">}}
 {{< /cards >}}
 
 ## Collections
