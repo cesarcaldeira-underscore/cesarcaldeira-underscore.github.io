@@ -22,7 +22,7 @@ Over the coming weeks, marking the near 17th[^2] anniversary of the series, I wa
 [^2]: I had to look this up because I couldn't believe it... It's been a long time since this series first came out.
 
 {{< cards >}}
-  {{< card icon="newspaper" title="Modern Warfare" subtitle="Work in progress..." image="https://upload.wikimedia.org/wikipedia/en/5/5f/Call_of_Duty_4_Modern_Warfare.jpg">}}
+  {{< card icon="newspaper" title="Modern Warfare" subtitle="Work in progress..." image="https://upload.wikimedia.org/wikipedia/en/5/5f/Call_of_Duty_4_Modern_Warfare.jpg" link="/archives/2024/0306-modern-warfare-1/">}}
   {{< card icon="newspaper" title="Modern Warfare 2" subtitle="Work in progress..." image="https://upload.wikimedia.org/wikipedia/en/5/52/Call_of_Duty_Modern_Warfare_2_%282009%29_cover.png">}}
   {{< card icon="newspaper" title="Modern Warfare 3" subtitle="Work in progress..." image="https://upload.wikimedia.org/wikipedia/en/b/bf/Call_of_Duty_Modern_Warfare_3_box_art.png">}}
 {{< /cards >}}
