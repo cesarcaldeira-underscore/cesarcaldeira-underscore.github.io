@@ -15,4 +15,5 @@ This is the homepage for my university projects which I deem decent enough to pu
 {{< cards >}}
   {{< card title="Thucydides 2022" subtitle="A semester-long journey studying the Peloponnesian War." image="https://upload.wikimedia.org/wikipedia/commons/f/f2/1865_Spruner_Map_of_Greece%2C_Macedonia_and_Thrace_before_the_Peloponnesian_War._-_Geographicus_-_GraeciaMacedoniaThracia-spruner-1865.jpg" link="thucydides">}}
   {{< card title="China Collection" subtitle="Selected works on history and security in China." image="https://upload.wikimedia.org/wikipedia/commons/d/dc/Tiananmen_Gate_--_the_Gate_of_Heavenly_Peace%2C_the_most_famous_part_of_the_Forbidden_City._Complete_with_portrait_of_Chairman_Mao_and_appropriate_propaganda.jpg" link="china">}}
+  {{< card title="Miscelaneous" subtitle="Some miscelaneous projects from university." image="https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" link="miscelaneous">}}
 {{< /cards >}}
