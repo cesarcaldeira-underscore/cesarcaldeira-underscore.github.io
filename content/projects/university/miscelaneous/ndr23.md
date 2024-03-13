@@ -10,6 +10,8 @@ title:  "Presentation on Australia's 'National Defence Review 2023'"
 
 {{< callout type="info" >}}
   This presentation takes tremendous inspiration from a publication from the Australian National University's Strategic & Defence Studies Centre: ["A Geostrategic SWOT Analysis for Australia", by John Blaxland](https://sdsc.bellschool.anu.edu.au/sites/default/files/publications/attachments/2019-06/cog_49_swot_analysis_web.pdf). It has been adapted to reflect the changes undertaken by policymakers and planners, as outlined in NDR23.
+
+  For further reading on my previous — more detailed — analysis on AUKUS, refer to [this 2023 essay](/projects/university/china/aukus/).
 {{< /callout >}}
 
 Australia's [National Defence Review 2023](https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review) (NDR23) is the nation's chief strategic document. Its stated aims are *"to provide a strategic assessment and a far-reaching strategy for the nation and the Government, as well as a roadmap for* [the Department of] *Defence to implement our* [the authors'] *recommendations."*
@@ -98,6 +100,8 @@ Important considerations on materiel acquisition, workforce retention, and finan
   {{< tab >}}
     ### Opportunities
 
+    > External aspects which positively affect the attainment of Australia's goals.
+
     - **South Pacific:** This region is Australia's historic gravitational centre. However, it is currently facing challenges such as climate change (which is existential, for many countries) and Chinese overtures. Nonetheless, Australia is very much engaged in the region and has a window of opportunity to maintain its position as the chief area partner for economic and security matters.
     - **ASEAN:** This mostly economic group is an important area of interest for Australia, and is suspicious of China's (Australia's key security challenge) growing reach and intrusions. Its member nations enjoy cordial relations with Australia and are on the receiving end of technical assistance and capital from the country. Australia can lobby for a security posture favourable to it and skeptical of China in this region if it leverages the development assistance and economic means it can provide (combining efforts with the United States, this could be used to great effect).
     - **QUAD:** Australia has the possibility to expand trade, economic, qualifications, and security ties with India and Japan. Both are on cold terms with China and billateral investment is expanding. However, relations with India are disputable as its illiberal streak is growing.
@@ -107,6 +111,11 @@ Important considerations on materiel acquisition, workforce retention, and finan
   {{< tab >}}
     ### Threats
 
-    
+    > External aspects which negatively affect the attainment of Australia's goals.
+
+    - **Foreign interference:** Cyber-security and disinformation/subversive concerns are growing in Australia, as the world and its region shifts from a unipolar 'End of History' international system to one where ideological, cultural, and identitarian battles are taking place in society and on the ballot boxes of democracies. Likewise, the inadequate cyber-security aparattus is unable to cope with eventual industrial, military, or political interference.
+    - **Environment:** Environmental challenges, from disease to natural disasters such as droughts and rising sea levels, are particularly damaging to Australia, both internally and externally. Growing climate insecurity in the region may lead to an increase in migration which Australian society — as diverse as it may be — is unable to cope with. These changes, which are not Australian in origin, may lead to increasing sectarian conflict in the Indo-Pacific, resulting in political instability and uncertainty of political and diplomatic arrangements, which China may alleviate (or exploit) in the hopes of gaining clout in the region, isolating Australia from potential partners and diminishing its strategic depth.
+    - **Indonesian domestic politics:** Indonesia (which has recently shifted towards a more illiberal government) may grow apart from Australia after over 20 years of mitigation of relations over the East-Timor crisis. It remains to be seen whether the new government will be sympathetic to China in exchange of greater capital and development investment, but with an illiberal government and peripheral instability brewing, a negative shift of relations cannot be ruled out and must be actively combated with constructive engagement.
+    - **Risk of conflict in East-Asia:** China's growing military has a mission purpose of "reuniting the country" — meaning invading and occupying Taiwan. The prospect of conflict over the island risks severe economic shocks and trade disruptions across the region. Likewise, the US will in some capacity be involved in such a conflict, and may (by virtue of association) extend the conflict to Australia, which hosts important US strategic assets.
   {{< /tab >}}
 {{< /tabs >}}
