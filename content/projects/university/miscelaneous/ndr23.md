@@ -8,6 +8,10 @@ title:  "Presentation on Australia's 'National Defence Review 2023'"
 
 ![](https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?q=80&w=3133&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "Caleb, via Unsplash.")
 
+{{< callout type="info" >}}
+  This presentation takes tremendous inspiration from a publication from the Australian National University's Strategic & Defence Studies Centre: ["A Geostrategic SWOT Analysis for Australia", by John Blaxland](https://sdsc.bellschool.anu.edu.au/sites/default/files/publications/attachments/2019-06/cog_49_swot_analysis_web.pdf). It has been adapted to reflect the changes undertaken by policymakers and planners, as outlined in NDR23.
+{{< /callout >}}
+
 Australia's [National Defence Review 2023](https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review) (NDR23) is the nation's chief strategic document. Its stated aims are *"to provide a strategic assessment and a far-reaching strategy for the nation and the Government, as well as a roadmap for* [the Department of] *Defence to implement our* [the authors'] *recommendations."*
 
 ## Summary of NDR23
@@ -70,3 +74,39 @@ Important considerations on materiel acquisition, workforce retention, and finan
 
 ## A SWOT analysis of Australian strategy through the lens of NDR23
 
+{{< tabs items="Strengths,Weaknesses,Opportunities,Threats" >}}
+  {{< tab >}}
+    ### Strengths
+
+    > Internal aspects which positively affect the attainment of Australia's goals.
+
+    - **Geography:** Australia is geographically protected from its strategic competitors to the North. With plenty of states between itself and China, and few unprotected maritime routes linking the two (most of them between narrow straits across the Indonesian archipelago). Likewise, the chief urban and economic centres of Australia are located in the South-Eastern corner of the country, which has easier access to maritime routes across the Pacific towards its main strategic partner — the US. Additionally, vital strategic assets such as the Pine Gap communications and intelligence base are located safely within Australia's vast interior, which provides the country with significant strategic depth.
+    - **Economy:** Australia's economy is vast and resource-rich, and its workforce is highly qualified. Being a net exporter of agricultural products, it is (despite its relative geographic isolation) mostly safe from food insecurity. Likewise, its natural resources are highly sought after for industrial and military production, especially iron ore and rare earths — some of which it is a world leader in extraction.
+    - **Politics:** The political system of Australia is remarkably stable. Despite global trends in democratic backsliding, the country has remained a strong democracy with solid rule of law, with populism on both the left and right currently gaining little traction. Likewise, Australia has benefited from extensive incentives for multiculturalism, which have allowed the population and economy to expand significantly over the years with relatively little damage to social cohesion.
+  {{< /tab >}}
+
+  {{< tab >}}
+    ### Weaknesses
+
+    > External aspects which negatively affect the attainment of Australia's goals.
+
+    - **Domestic defence and security solutions:** Australia is currently very limited in developing its own military materiel and solutions, being highly dependent on its partners abroad. Australia finds itself often depending on technology sharing agreedments or on military imports with little to no knowledge transfers which might allow it to stand by itself for prolongued periods of time if required. Likewise, cyber-security is of large concern to the nation, with current systems proving inadequate and allowing for great foreign or domestic interference.
+    - **Energy:** The country's energy security is bound to international supply chains which might be disrupted if conflict breaks out in Asia. Though domestic efforts for a clean energy transition are ongoing, they are insufficient in the short to medium term and could endanger Australian energy security. Current fuel reserves are also not sufficient to last long periods of time when cut off from the source, and refining is mostly outsourced.
+    - **Limited naval strategic depth:** Currently, the ADF is unable to — by itself — wholly deny maritime access to opponents and challenge incursions, relying on natural advantages and foreign (chiefly US) support. In part, this is the result of a broader carelessness and dismissal of strategic power competition which only recently has been accepted as the new strategic circumstance of the nation, and is beeing combated through new investment on capability acquisition on the short and medium term — to ensure the bare minimums (what the country can do now, and fast, to implement sea denial) — and on the long term — to guarantee deterrence is effective (what the country can do on the long term to ensure sea control).
+  {{< /tab >}}
+
+  {{< tab >}}
+    ### Opportunities
+
+    - **South Pacific:** This region is Australia's historic gravitational centre. However, it is currently facing challenges such as climate change (which is existential, for many countries) and Chinese overtures. Nonetheless, Australia is very much engaged in the region and has a window of opportunity to maintain its position as the chief area partner for economic and security matters.
+    - **ASEAN:** This mostly economic group is an important area of interest for Australia, and is suspicious of China's (Australia's key security challenge) growing reach and intrusions. Its member nations enjoy cordial relations with Australia and are on the receiving end of technical assistance and capital from the country. Australia can lobby for a security posture favourable to it and skeptical of China in this region if it leverages the development assistance and economic means it can provide (combining efforts with the United States, this could be used to great effect).
+    - **QUAD:** Australia has the possibility to expand trade, economic, qualifications, and security ties with India and Japan. Both are on cold terms with China and billateral investment is expanding. However, relations with India are disputable as its illiberal streak is growing.
+    - **AUKUS:** The crown jewel of Australian foreign relations, this recent development is an expansion of Australia's security relations with the US and includes deepening security ties with the UK. This accord has the potential to bring out great economic investment and technological sharing from the US, as well as a capacity sharing component for submarine forces.
+  {{< /tab >}}
+
+  {{< tab >}}
+    ### Threats
+
+    
+  {{< /tab >}}
+{{< /tabs >}}
