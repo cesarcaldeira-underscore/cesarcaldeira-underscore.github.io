@@ -13,4 +13,5 @@ Here you can find some of the projects I presented during my university years. S
 
 {{< cards >}}
   {{< card title="Presentation on Australia's 'National Defence Review 2023'" subtitle="On Australia's strategy in the Indo-Pacific: a SWOT analysis." image="https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?q=80&w=3133&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" link="ndr23">}}
+  {{< card title="Chapter Review: Routledge Companion to Intelligence Studies" subtitle="A presentation on China's systems of intelligence and intelligence information objectives." image="https://upload.wikimedia.org/wikipedia/commons/0/01/Ministry_of_Foreign_Affairs%2C_Beijing.jpg" link="intelligence-chapter-review">}}
 {{< /cards >}}
