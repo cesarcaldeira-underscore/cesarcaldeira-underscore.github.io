@@ -17,4 +17,5 @@ As a result of these investigations, I have decided to focus my studies on Asian
   {{< card title="Australian security and partnership in the age of a rising China" subtitle="A reflection on the strategic value of partnership and alliance in Australia’s foreign policy." image="https://upload.wikimedia.org/wikipedia/commons/0/09/P20230313HF-0190-1_%2852779342632%29.jpg" link="aukus">}}
   {{< card title="Protracted People’s War" subtitle="Reflecting on Mao’s strategic innovation and legacy." image="https://upload.wikimedia.org/wikipedia/commons/8/85/Mao_Proclaiming_New_China.JPG" link="mao">}}
   {{< card title="Institutional maladaptation in Ming dynasty Strategy" subtitle="An analysis of the Ming’s institutional framework and its inadequacy in formulating strategy." image="https://upload.wikimedia.org/wikipedia/commons/1/10/20090529_Great_Wall_8185.jpg" link="ming">}}
+  {{< card title="A model for thinking the coming decade of EU-China relations" subtitle="A strategic foresight exercise for EU-China relations." image="https://upload.wikimedia.org/wikipedia/commons/1/19/P060812-622679.jpg" link="foresight">}}
 {{< /cards >}}
