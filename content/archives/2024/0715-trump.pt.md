@@ -11,8 +11,6 @@ tags:
 
 ![](/images/trump-shot.jpg "Anna Moneymaker — Getty Images")
 
-I will keep this post brief. The consequences of this event will not be clear for a while, yet it is nonetheless important to start thinking on how this will shape the November elections. I will simply leave the following short bullet points for your consideration:
-
 Tentarei ser breve com estas considerações. As consequências desta tentativa de assassinato não serão claras durante uns tempos, no entanto é importante pensarmos sobriamente sobre como este evento afetará as eleições de Novembro. Deixo aqui por pontos algumas curtas considerações sobre o assunto:
 
 1. Primeiro, esperem que a conjetura mediática americana se foque na tentativa durante as próximas semanas. Outros eventos e discussões que estavam planeadas discutir-se serão postas de parte à luz da tentativa fracassada à vida de Trump.
